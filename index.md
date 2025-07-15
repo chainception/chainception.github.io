@@ -10,6 +10,9 @@ permalink: /
 
 Welcome — Discover my theses, research, analysis and insights here:
 
+- **Thematic Research**  
+  – [Real-World Assets on Solana - Bridging Traditional Finance On-Chain](https://www.papermark.com/view/cmd4qd8uy0001l404g1ibjb3l)  
+
 - **Investment Research**  
   – [Investment Thesis - Pendle – Analysing DeFi’s Fixed-Income Protocol](https://www.papermark.com/view/cmd4n38830001jx04utxjqdr4)  
   – [Pendle - Investment Memo - Liquid Strategy](https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv)
