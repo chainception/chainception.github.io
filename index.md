@@ -15,9 +15,9 @@ Welcome — Discover my theses, research, analysis and insights here:
   – [Pendle - Investment Memo](https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv)
 
 - **Data & Dashboards**  
-  – [Liquid Staking Monitor](https://app.glintanalytics.com/Sp1ff/dashboards/liquid-staking-monitor)
-  – [Stablecoins Watcher](https://app.glintanalytics.com/Sp1ff/dashboards/stablecoin-sentinel)
-  – [DeFi Pulse](https://app.glintanalytics.com/Sp1ff/dashboards/defi-pulse:-blue-chip-health-monitor)
+  – [Liquid Staking Monitor](https://app.glintanalytics.com/Sp1ff/dashboards/liquid-staking-monitor) 
+  – [Stablecoins Sentinel](https://app.glintanalytics.com/Sp1ff/dashboards/stablecoin-sentinel) 
+  – [DeFi Pulse](https://app.glintanalytics.com/Sp1ff/dashboards/defi-pulse:-blue-chip-health-monitor) 
 
 - **GitHub Projects**  
   – [On‑chain Analytics Dashboard](https://github.com/chainception/onchain-dashboard)  
