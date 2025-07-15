@@ -8,7 +8,7 @@ permalink: /
 
 > A voyage through the ledger of trust, an attempt to unveil blockchain’s boundless promise through first principle.
 
-Welcome— view my investment thesis research and insights below:
+Welcome — Discover my theses, research, analysis and insights here:
 
 - **Research PDFs**  
   – [DeFi Yield Tokenization (DocSend)](https://docsend.com/view/…)  
