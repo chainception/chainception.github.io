@@ -10,9 +10,9 @@ permalink: /
 
 Welcome — Discover my theses, research, analysis and insights here:
 
-- ** Investment Research **  
+- **Investment Research**  
   – [Investment Thesis - Pendle – Analysing DeFi’s Fixed-Income Protocol](https://www.papermark.com/view/cmd4n38830001jx04utxjqdr4)  
-  – [Pendle - Investment Memo](https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv)
+  – [Pendle - Investment Memo - Liquid Strategy](https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv)
 
 - **Data & Dashboards**
   - [Liquid Staking Monitor](https://app.glintanalytics.com/Sp1ff/dashboards/liquid-staking-monitor)
