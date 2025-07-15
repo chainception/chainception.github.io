@@ -23,10 +23,10 @@ Welcome — Discover my theses, research, analysis and insights here:
   - [DeFi Pulse](https://app.glintanalytics.com/Sp1ff/dashboards/defi-pulse:-blue-chip-health-monitor)
 
 
-- **GitHub Projects**  
+<!--- **GitHub Projects**  
   – [On‑chain Analytics Dashboard](https://github.com/chainception/onchain-dashboard)  
   – [Smart‑Contract Audit Toolkit](https://github.com/chainception/audit-toolkit)
-
+-->
 ---
 <!--
 *Last updated: {{ site.time | date: "%B %-d, %Y" }}*
