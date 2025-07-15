@@ -10,9 +10,9 @@ permalink: /
 
 Welcome — Discover my theses, research, analysis and insights here:
 
-- **Research PDFs**  
-  – [DeFi Yield Tokenization (DocSend)](https://docsend.com/view/…)  
-  – [Layer‑2 Scaling Study (Google Doc)](https://docs.google.com/…)
+- ** Investment Research **  
+  – [Investment Thesis - Pendle – Analysing DeFi’s Fixed-Income Protocol](https://www.papermark.com/view/cmd4n38830001jx04utxjqdr4)  
+  – [Pendle - Investment Memo](https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv)
 
 - **Data & Dashboards**  
   – [Market‑Sizing Excel Workbook](https://yourdomain.com/files/market-sizing.xlsx)  
