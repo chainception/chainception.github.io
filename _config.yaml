@@ -1,0 +1,5 @@
+title: Hashbuster
+description: "A minimal blockchain research hub"
+baseurl: ""                   # root of domain
+url: "https://chainception.github.io"
+theme: minima
