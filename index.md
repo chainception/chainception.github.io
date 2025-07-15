@@ -8,11 +8,7 @@ permalink: /
 
 > A voyage through the ledger of trust, an attempt to unveil blockchain’s boundless promise through first principle.
 
-Welcome—here you’ll find links to:
-
-- **GitHub Projects**  
-  – [On‑chain Analytics Dashboard](https://github.com/chainception/onchain-dashboard)  
-  – [Smart‑Contract Audit Toolkit](https://github.com/chainception/audit-toolkit)
+Welcome— view my investment thesis research and insights below:
 
 - **Research PDFs**  
   – [DeFi Yield Tokenization (DocSend)](https://docsend.com/view/…)  
@@ -22,6 +18,11 @@ Welcome—here you’ll find links to:
   – [Market‑Sizing Excel Workbook](https://yourdomain.com/files/market-sizing.xlsx)  
   – [Live Dashboard (Tableau/Looker)](https://lookerstudio.google.com/…)
 
----
+- **GitHub Projects**  
+  – [On‑chain Analytics Dashboard](https://github.com/chainception/onchain-dashboard)  
+  – [Smart‑Contract Audit Toolkit](https://github.com/chainception/audit-toolkit)
 
+---
+<!--
 *Last updated: {{ site.time | date: "%B %-d, %Y" }}*
+-->
