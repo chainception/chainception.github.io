@@ -4,9 +4,9 @@ title: Home
 permalink: /
 ---
 
-# BlockByte
+# HashBuster
 
-> Your one‑stop microsite for blockchain research.
+> A voyage through the ledger of trust, an attempt to unveil blockchain’s boundless promise through first principle.
 
 Welcome—here you’ll find links to:
 
