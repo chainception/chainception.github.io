@@ -7,7 +7,7 @@ permalink: /
 <!-- Logo at the top -->
 <p align="center">
   <img 
-    src="{{ '/assets/images/logo.png' | relative_url }}" 
+    src="{{'/assets/images/chainception-logo.png' | relative_url}}" 
     alt="Chainception Logo" 
     style="max-width:200px; margin-bottom:1rem;"
   />
