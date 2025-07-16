@@ -21,7 +21,7 @@ Welcome — Discover my theses, research, analysis, and insights below:
 - **Data & Dashboards**
   - <a href="https://app.glintanalytics.com/Sp1ff/dashboards/liquid‑staking‑monitor" target="_blank" rel="noopener noreferrer">Liquid Staking Monitor</a>
   - <a href="https://app.glintanalytics.com/Sp1ff/dashboards/stablecoin‑sentinel" target="_blank" rel="noopener noreferrer">Stablecoins Sentinel</a>
-  - <a href="https://app.glintanalytics.com/Sp1ff/dashboards/defi-pulse:-blue-chip-health-monitor" target="_blank" rel="noopener noreferrer">DeFi Pulse</a>
+  - <a href="https://app.glintanalytics.com/Sp1ff/dashboards/defi-pulse:-blue-chip-health-monitor" target="_blank" rel="noopener noreferrer">DeFi Blue-Chip Pulse</a>
 
 - **ML/Quant Projects**
   - <a href="https://github.com/Pseud0n1nja/CryptoQuant" target="_blank" rel="noopener noreferrer">Pricing ETH Binary Options using Black Scholes</a>
