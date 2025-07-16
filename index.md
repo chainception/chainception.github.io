@@ -4,6 +4,15 @@ title: Home
 permalink: /
 ---
 
+<!-- Logo at the top -->
+<p align="center">
+  <img 
+    src="{{ '/assets/images/logo.png' | relative_url }}" 
+    alt="Chainception Logo" 
+    style="max-width:200px; margin-bottom:1rem;"
+  />
+</p>
+
 > A voyage through the ledger of trust, an attempt to unveil blockchain’s boundless promise through first principles.
 
 Welcome — Discover my theses, research, analysis, and insights below:
