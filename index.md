@@ -15,7 +15,7 @@ Welcome — Discover my theses, research, analysis, and insights below:
     - <a href="https://arpit-kr.medium.com/the-state-of-stablecoins-on-solana-powering-the-future-of-global-finance-37d73de293d2" target="_blank" rel="noopener noreferrer">Stablecoins on Solana – The Future of Global Finance</a>
 
 - **Investment Research**
-  - <a href="https://www.papermark.com/view/cmd4n38830001jx04utxjqdr4" target="_blank" rel="noopener noreferrer">Investment Thesis – Pendle: Analysing DeFi’s Fixed‑Income Protocol</a>
+  - <a href="https://www.papermark.com/view/cmd5d525w0004l404cwximps6" target="_blank" rel="noopener noreferrer">Investment Thesis – Pendle: Analysing DeFi’s Fixed‑Income Protocol</a>
   - <a href="https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv" target="_blank" rel="noopener noreferrer">Pendle: Investment Memo – Liquid Strategy</a>
 
 - **Data & Dashboards**
