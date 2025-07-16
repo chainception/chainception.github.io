@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="wrapper" style="display: flex; align-items: center; justify-content: space-between;">
+    <h1 class="site-title" style="display: flex; align-items: center; margin: 0;">
+      <img
+        src="{{ '/assets/images/chainception-logo.png' | relative_url }}"
+        alt="{{ site.title }} logo"
+        style="height: 2rem; margin-right: 0.5rem;"
+      />
+      <a href="{{ '/' | relative_url }}" style="text-decoration: none; color: inherit;">
+        {{ site.title }}
+      </a>
+    </h1>
+
+    <nav class="site-nav" aria-label="Primary navigation">
+      <ul style="list-style: none; margin: 0; display: flex; gap: 1rem;">
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <!-- add more nav links here if needed -->
+      </ul>
+    </nav>
+  </div>
+</header>
