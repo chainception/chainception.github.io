@@ -25,6 +25,7 @@ Welcome — Discover my theses, research, analysis, and insights below:
 
 - **ML/Quant Projects**
   - <a href="https://github.com/Pseud0n1nja/CryptoQuant" target="_blank" rel="noopener noreferrer">Pricing ETH Binary Options using Black Scholes</a>
+  - <a href="https://github.com/Pseud0n1nja/BlockAnalytics/tree/e05f1a0800ccdd8af61cd677244ab578ef75083a/GlassNode" target="_blank" rel="noopener noreferrer">Time-Series Analysis of Ethereum using Glassnode APIs</a>
 
 <!--
 *Last updated: {{ site.time | date: "%B %-d, %Y" }}*
