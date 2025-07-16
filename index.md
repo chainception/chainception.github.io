@@ -4,8 +4,6 @@ title: Home
 permalink: /
 ---
 
-# BlockByte
-
 > A voyage through the ledger of trust, an attempt to unveil blockchain’s boundless promise through first principles.
 
 Welcome — Discover my theses, research, analysis, and insights below:
