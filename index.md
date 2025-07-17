@@ -18,9 +18,9 @@ Welcome — Discover my theses, research, analysis, and insights below:
 
 - **Investment Research**
   - <a href="https://www.papermark.com/view/cmd5d525w0004l404cwximps6" target="_blank" rel="noopener noreferrer">Investment Thesis – Pendle: Analysing DeFi’s Fixed‑Income Protocol</a>
-  - <a href="https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv" target="_blank" rel="noopener noreferrer">Pendle: Investment Memo – Liquid Strategy</a>
+  - <a href="https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv" target="_blank" rel="noopener noreferrer">Investment Memo: Pendle – Liquid Strategy</a>
   - <a href="https://mirror.xyz/arp1t.eth/2gem5FofBEPz1sJfoTW0O_AXo6hVM6yZ3GvstnCR068" target="_blank" rel="noopener noreferrer">Investment Thesis - IO.Net – Analysing Decentralized Computing</a>
-  - <a href="https://www.papermark.com/view/cmd7klkks000cjs04yfyygltw" target="_blank" rel="noopener noreferrer">STEPN - Investment Memo</a>
+  - <a href="https://www.papermark.com/view/cmd7klkks000cjs04yfyygltw" target="_blank" rel="noopener noreferrer">Investment Memo: STEPN</a>
 
 - **Data & Dashboards**
   - <a href="https://app.glintanalytics.com/Sp1ff/dashboards/liquid‑staking‑monitor" target="_blank" rel="noopener noreferrer">Liquid Staking Monitor</a>
