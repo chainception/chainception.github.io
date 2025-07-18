@@ -10,6 +10,7 @@ Welcome — Discover my theses, research, analysis, and insights below:
 
 - **Thematic Research**
   - <a href="https://github.com/Pseud0n1nja/Investment-Theses-Research-and-Analysis/blob/main/Blockchain-Crypto%20Research%20%26%20Analysis/DeFi/StableCoins/Circle_IPO_Financial_Model.md" target="_blank" rel="noopener noreferrer">Circle IPO: A Quick Breakdown of Its Financials</a>
+  - <a href="https://www.papermark.com/view/cmd84c4m40006lb04z5bo4wcg" target="_blank" rel="noopener noreferrer">An In-Depth Exploration of $LINK Tokenomics</a>  
   - **The State of Solana**
     - <a href="https://www.papermark.com/view/cmd4qd8uy0001l404g1ibjb3l" target="_blank" rel="noopener noreferrer">Real‑World Assets on Solana – Bridging Traditional Finance On‑Chain</a>
     - <a href="https://www.papermark.com/view/cmd5atfkh0006jo049n83vp49" target="_blank" rel="noopener noreferrer">DePIN on Solana – Decentralizing the Physical World</a>
