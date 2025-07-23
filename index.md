@@ -4,8 +4,7 @@ title: Home
 permalink: /
 ---
 
-> A voyage through the ledger of trust, an attempt to unveil blockchain’s boundless promise through first principles.
-
+> Hello—I’m a research and investment analyst with a passion for data science, deeply curious about blockchain’s evolving landscape. These writings are my personal explorations, aiming to unpack blockchain’s boundless promise through first-principles analysis and quantitative rigor.
 Welcome — Discover my theses, research, analysis, and insights below:
 
 - **Thematic Research**
