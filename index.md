@@ -4,8 +4,8 @@ title: Home
 permalink: /
 ---
 
-> Hello - I’m a research/investment analyst with a passion for AI/applied mathematics, deeply curious about DeepTech, AI and blockchain’s evolving landscape. These writings are my personal explorations, aiming to unpack AI, blockchain’s boundless promise through first-principles analysis and data driven insights.
->
+> Hello - I’m a research/investment analyst with a passion for AI/applied mathematics, deeply curious about blockchain’s evolving landscape. These writings are my personal explorations, aiming to unpack blockchain’s promise through first-principles analysis and data driven insights.
+
 - **Investment Research**
   - <a href="https://github.com/Pseud0n1nja/Investment-Theses-Research-and-Analysis/blob/main/Blockchain-Crypto%20Research%20&%20Analysis/DeFi/StableCoins/Circle-Investment-Thesis.md" target="_blank" rel="noopener noreferrer">Circle : A Detailed Investment Thesis</a>
   - <a href="https://www.papermark.com/view/cmd5d525w0004l404cwximps6" target="_blank" rel="noopener noreferrer">Investment Thesis – Pendle: Analysing DeFi’s Fixed‑Income Protocol</a>
