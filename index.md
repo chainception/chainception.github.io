@@ -4,10 +4,10 @@ title: Home
 permalink: /
 ---
 
-> Hello-I’m a research/investment analyst with a passion for data science/applied mathematics, deeply curious about blockchain’s evolving landscape. These writings are my personal explorations, aiming to unpack blockchain’s boundless promise through first-principles analysis and data driven insights.
+> Hello - I’m a research/investment analyst with a passion for AI/applied mathematics, deeply curious about blockchain’s evolving landscape. These writings are my personal explorations, aiming to unpack blockchain’s boundless promise through first-principles analysis and data driven insights.
 
 - **Thematic Research**
-  - <a href="https://github.com/Pseud0n1nja/Investment-Theses-Research-and-Analysis/blob/main/Blockchain-Crypto%20Research%20%26%20Analysis/DeFi/StableCoins/Circle_IPO_Financial_Model.md" target="_blank" rel="noopener noreferrer">Circle IPO: A Quick Breakdown of Its Financials</a>
+  - <a href="https://github.com/Pseud0n1nja/Investment-Theses-Research-and-Analysis/blob/main/Blockchain-Crypto%20Research%20&%20Analysis/DeFi/StableCoins/Circle-Investment-Thesis.md" target="_blank" rel="noopener noreferrer">Circle : A Detailed Investment Thesis</a>
   - <a href="https://www.papermark.com/view/cmd84c4m40006lb04z5bo4wcg" target="_blank" rel="noopener noreferrer">An In-Depth Exploration of $LINK Tokenomics</a>  
   - **The State of Solana**
     - <a href="https://www.papermark.com/view/cmd4qd8uy0001l404g1ibjb3l" target="_blank" rel="noopener noreferrer">Real‑World Assets on Solana – Bridging Traditional Finance On‑Chain</a>
