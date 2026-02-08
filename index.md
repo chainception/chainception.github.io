@@ -5,25 +5,27 @@ permalink: /
 ---
 
 > Hello - I’m a research/investment analyst with a passion for AI/applied mathematics, deeply curious about DeepTech, AI and blockchain’s evolving landscape. These writings are my personal explorations, aiming to unpack AI, blockchain’s boundless promise through first-principles analysis and data driven insights.
+>
+- **Investment Research**
+  - <a href="https://github.com/Pseud0n1nja/Investment-Theses-Research-and-Analysis/blob/main/Blockchain-Crypto%20Research%20&%20Analysis/DeFi/StableCoins/Circle-Investment-Thesis.md" target="_blank" rel="noopener noreferrer">Circle : A Detailed Investment Thesis</a>
+  - <a href="https://www.papermark.com/view/cmd5d525w0004l404cwximps6" target="_blank" rel="noopener noreferrer">Investment Thesis – Pendle: Analysing DeFi’s Fixed‑Income Protocol</a>
+  - <a href="https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv" target="_blank" rel="noopener noreferrer">Investment Memo: Pendle – Liquid Strategy</a>
+  - <a href="https://mirror.xyz/arp1t.eth/2gem5FofBEPz1sJfoTW0O_AXo6hVM6yZ3GvstnCR068" target="_blank" rel="noopener noreferrer">Investment Thesis – IO.Net: Analysing Decentralized Computing</a>
+  - <a href="https://www.papermark.com/view/cmd7klkks000cjs04yfyygltw" target="_blank" rel="noopener noreferrer">Investment Memo: STEPN</a>
 
 - **Thematic Research**
-  - <a href="https://github.com/Pseud0n1nja/Investment-Theses-Research-and-Analysis/blob/main/Blockchain-Crypto%20Research%20&%20Analysis/DeFi/StableCoins/Circle-Investment-Thesis.md" target="_blank" rel="noopener noreferrer">Circle : A Detailed Investment Thesis</a>
-  - <a href="https://www.papermark.com/view/cmd84c4m40006lb04z5bo4wcg" target="_blank" rel="noopener noreferrer">An In-Depth Exploration of $LINK Tokenomics</a>  
+ 
   - **The State of Solana**
     - <a href="https://www.papermark.com/view/cmd4qd8uy0001l404g1ibjb3l" target="_blank" rel="noopener noreferrer">Real‑World Assets on Solana – Bridging Traditional Finance On‑Chain</a>
     - <a href="https://www.papermark.com/view/cmd5atfkh0006jo049n83vp49" target="_blank" rel="noopener noreferrer">DePIN on Solana – Decentralizing the Physical World</a>
     - <a href="https://arpit-kr.medium.com/the-state-of-stablecoins-on-solana-powering-the-future-of-global-finance-37d73de293d2" target="_blank" rel="noopener noreferrer">Stablecoins on Solana – The Future of Global Finance</a>
 
 
-- **Investment Research**
-  - <a href="https://www.papermark.com/view/cmd5d525w0004l404cwximps6" target="_blank" rel="noopener noreferrer">Investment Thesis – Pendle: Analysing DeFi’s Fixed‑Income Protocol</a>
-  - <a href="https://www.papermark.com/view/cmd4n80h50004jj04k353c3iv" target="_blank" rel="noopener noreferrer">Investment Memo: Pendle – Liquid Strategy</a>
-  - <a href="https://mirror.xyz/arp1t.eth/2gem5FofBEPz1sJfoTW0O_AXo6hVM6yZ3GvstnCR068" target="_blank" rel="noopener noreferrer">Investment Thesis – IO.Net: Analysing Decentralized Computing</a>
-  - <a href="https://www.papermark.com/view/cmd7klkks000cjs04yfyygltw" target="_blank" rel="noopener noreferrer">Investment Memo: STEPN</a>
+
 
 - **Data & Dashboards**
   - <a href="https://flipsidecrypto.xyz/chat/api/artifacts/l2-ecosystem-analysis-extractive-vs-symbiotic-relationship-with-ethereum-kt5h7f85" target="_blank" rel="noopener noreferrer">L2 Ecosystem Analysis</a>
-  - <a href="https://app.glintanalytics.com/Sp1ff/dashboards/liquid‑staking‑monitor" target="_blank" rel="noopener noreferrer">Liquid Staking Monitor</a>
+  - <a href="https://app.glintanalytics.com/Sp1ff/dashboards/liquid-staking-monitor" target="_blank" rel="noopener noreferrer">Liquid Staking Monitor</a>
   - <a href="https://app.glintanalytics.com/Sp1ff/dashboards/stablecoin-sentinel" target="_blank" rel="noopener noreferrer">Stablecoins Sentinel</a>
   - <a href="https://app.glintanalytics.com/Sp1ff/dashboards/defi-pulse:-blue-chip-health-monitor" target="_blank" rel="noopener noreferrer">DeFi Blue-Chip Pulse</a>
   
