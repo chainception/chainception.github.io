@@ -16,6 +16,7 @@ permalink: /
   - <a href="https://www.papermark.com/view/cmd7klkks000cjs04yfyygltw" target="_blank" rel="noopener noreferrer">Investment Memo: STEPN</a>
 
 - **Thematic Research**
+  - <a href="https://www.papermark.com/view/cmmng7ydv0001lc04a0brtvip" target="_blank" rel="noopener noreferrer">Decoding India’s Semiconductor Landscape</a>
   - **The State of Solana**
     - <a href="https://www.papermark.com/view/cmd4qd8uy0001l404g1ibjb3l" target="_blank" rel="noopener noreferrer">Real‑World Assets on Solana – Bridging Traditional Finance On‑Chain</a>
     - <a href="https://www.papermark.com/view/cmd5atfkh0006jo049n83vp49" target="_blank" rel="noopener noreferrer">DePIN on Solana – Decentralizing the Physical World</a>
